@@ -1,6 +1,12 @@
 # Abuse-detector
 Abuse detector through notepad
 
+created a NLP model which can predict Abusive words.
+
+Model was trained and pickled. No need of training the model again. 
+
+Just download the pickle from the below given link and use the code.
+
 model.pickle can be downloaded from below link
 
 
