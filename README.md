@@ -5,7 +5,7 @@ created a NLP model which can predict Abusive words.
 
 Model was trained and pickled. No need of training the model again. 
 
-Just download the pickle from the below given link and use the code.
+Just download the pickle from the below given link and run all the code given jupyter file.
 
 model.pickle can be downloaded from below link
 
